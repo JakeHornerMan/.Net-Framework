@@ -1,0 +1,7 @@
+C:\Users\jakeh\Documents\GitHub\.Net-Framework\LearnDotNet\LearnDotNet\bin\Debug\LearnDotNet.exe.config
+C:\Users\jakeh\Documents\GitHub\.Net-Framework\LearnDotNet\LearnDotNet\bin\Debug\LearnDotNet.exe
+C:\Users\jakeh\Documents\GitHub\.Net-Framework\LearnDotNet\LearnDotNet\bin\Debug\LearnDotNet.pdb
+C:\Users\jakeh\Documents\GitHub\.Net-Framework\LearnDotNet\LearnDotNet\obj\Debug\LearnDotNet.csproj.AssemblyReference.cache
+C:\Users\jakeh\Documents\GitHub\.Net-Framework\LearnDotNet\LearnDotNet\obj\Debug\LearnDotNet.csproj.CoreCompileInputs.cache
+C:\Users\jakeh\Documents\GitHub\.Net-Framework\LearnDotNet\LearnDotNet\obj\Debug\LearnDotNet.exe
+C:\Users\jakeh\Documents\GitHub\.Net-Framework\LearnDotNet\LearnDotNet\obj\Debug\LearnDotNet.pdb
